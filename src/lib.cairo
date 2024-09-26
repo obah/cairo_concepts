@@ -1,3 +1,4 @@
+mod compound_types_enum;
 mod snapshot;
 mod ownership;
 mod compound_types_dict;
