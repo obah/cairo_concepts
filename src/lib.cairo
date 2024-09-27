@@ -1,3 +1,4 @@
+mod panics;
 mod generics;
 mod compound_types_enum;
 mod compound_types_struct;
